@@ -1,0 +1,15 @@
+p {
+	color:green;	
+}
+
+.error {
+	color:red;
+}
+
+#warning {
+	color:blue;
+}
+
+.background_image {
+	background-image: url("/home/supriya/Downloads/gandhar.jpg");
+}
